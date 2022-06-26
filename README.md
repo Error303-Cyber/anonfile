@@ -15,7 +15,7 @@ AFTER THAT GIVE FILE PATH FOR EXAMPLE:
 ````
 /sdcard/main.py
 ````
-<p> TUTORIAL : <a href = "https://youtu.be/FDwlbkveN1s"> WATCH TUTORIAL</a></p>
+<p> TUTORIAL : <a href = "https://youtube.com/channel/UCC5QaALiWTbPbCzlxfhCnbQ"> WATCH TUTORIAL</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
