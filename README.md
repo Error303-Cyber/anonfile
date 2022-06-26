@@ -11,11 +11,9 @@ git clone https://github.com/AKXVAU/anonfile
 cd anonfile
 python anon.py
 ````
-CC EXAMPLES
-
+AFTER THAT GIVE FILE PATH FOR EXAMPLE:
 ````
-FIRST CC - 5391503167377976
-SECOND CC - 5391503167336451
+/sdcard/main.py
 ````
 <p> TUTORIAL : <a href = "https://youtu.be/FDwlbkveN1s"> WATCH TUTORIAL</a></p>
 
